@@ -1,0 +1,16 @@
+Category,Attribute,Model,F_statistic,p_value,Pattern
+Feminine,moral,T5-small,2.050692751922337e-07,0.003326063571373419,Male advantage stronger in Global North
+Feminine,emotional,T5-small,3.5719632320000316e-07,0.002611278056860354,Female advantage stronger in Global South
+Feminine,trustworthy,T5-small,8.110908282765841e-08,0.0023972549720246267,Male advantage stronger in Global North
+Masculine,rational,T5-small,1.3715390834506875e-07,0.001598805013490859,Male advantage stronger in Global North
+Feminine,compassionate,T5-small,8.658096953856223e-08,0.0013604049951050693,Female advantage stronger in Global South
+Masculine,aggressive,T5-small,9.748704273000557e-07,0.0013246057088449135,Male advantage stronger in Global North
+Masculine,ambitious,T5-small,2.330750136368657e-08,0.0010693498679435797,Male advantage stronger in Global North
+Masculine,inspiring,T5-small,7.392489319380858e-08,0.00104784469916014,Female advantage stronger in Global South
+Masculine,competent,T5-small,-4.6502881986614734e-08,0.0008211373515039589,Male advantage stronger in Global South
+Masculine,tough,T5-small,7.776809690000026e-08,0.0007316722662394174,Male advantage stronger in Global North
+Masculine,qualified,T5-small,8.16227657000131e-08,0.0006775763942133853,Male advantage stronger in Global North
+Feminine,gentle,T5-small,4.4722278371269256e-08,0.0006130325185410707,Male advantage stronger in Global North
+Feminine,warm,T5-small,5.244683509032365e-08,0.0005233756424623006,Male advantage stronger in Global North
+Masculine,assertive,T5-small,2.8755929425135316e-08,0.000493758540164615,Male advantage stronger in Global North
+Feminine,talkative,T5-small,-7.275440740001624e-08,0.0003594831986701307,Male advantage stronger in Global South

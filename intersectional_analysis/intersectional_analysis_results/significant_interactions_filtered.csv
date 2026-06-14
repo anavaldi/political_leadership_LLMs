@@ -1,0 +1,23 @@
+Category,Attribute,Model,Interaction_Effect,Relative_Magnitude,Pattern
+Charismatic/Value-Based,integrity,T5-large,5.901587742199985e-06,0.0322622335960254,Male advantage stronger in Global North
+Team-Oriented,diplomatic,T5-large,2.1719957429200062e-05,0.0303461315504134,Male advantage stronger in Global North
+Charismatic/Value-Based,decisive,T5-large,1.6386473151922812e-07,0.0288648304876785,Male advantage stronger in Global North
+Autonomous,autonomous,T5-large,2.3352504408034007e-06,0.0268236478716364,Male advantage stronger in Global North
+Self-Protective,status-conscious,T5-large,5.422969724699998e-06,0.0248642528851862,Male advantage stronger in Global North
+Humane-Oriented,modest,BERT-large,-7.156871247510034e-05,0.0243695805371226,Male advantage stronger in Global South
+Charismatic/Value-Based,performance-oriented,T5-large,-5.536282010879965e-05,0.0161235103283506,Male advantage stronger in Global South
+Charismatic/Value-Based,inspirational,BERT-large,2.1484850829499956e-05,0.013408023021684,Female advantage stronger in Global South
+Team-Oriented,integrative,T5-large,-5.325922542889945e-05,0.0123894990822685,Male advantage stronger in Global South
+Self-Protective,conflict-inducer,T5-large,4.309315481480043e-05,0.0119296265773807,Male advantage stronger in Global North
+Team-Oriented,diplomatic,BERT-large,0.0001535082355404,0.0098450096422045,Male advantage stronger in Global North
+Charismatic/Value-Based,integrity,BERT-large,-1.548878831200012e-06,0.008106181276342,Male advantage stronger in Global South
+Charismatic/Value-Based,decisive,BERT-large,0.0008557721842578,0.0080092833316917,Male advantage stronger in Global North
+Charismatic/Value-Based,self-sacrificial,T5-large,3.0120413217900235e-05,0.0079452964185094,Male advantage stronger in Global North
+Self-Protective,self-centered,T5-large,3.0120413217900235e-05,0.0079452964185094,Male advantage stronger in Global North
+Self-Protective,procedural,BERT-base,-2.186356527700045e-06,0.0063259235041906,Female advantage stronger in Global North
+Team-Oriented,integrative,BERT-large,-1.5681124262601647e-08,0.0058911115474013,Male advantage stronger in Global South
+Team-Oriented,collaborative,BERT-large,-0.000217507480726,0.0052756117853929,Female advantage stronger in Global North
+Self-Protective,conflict-inducer,BERT-base,1.3311652655500182e-05,0.004783603545514,Male advantage stronger in Global North
+Humane-Oriented,humane,T5-large,-0.0006230892442439,0.0046248335183143,Male advantage stronger in Global South
+Humane-Oriented,humane,BERT-large,5.557572222160065e-05,0.0044718530264451,Male advantage stronger in Global North
+Team-Oriented,collaborative,T5-large,5.911166311400136e-06,0.0044639355035242,Male advantage stronger in Global North
